@@ -1,2 +1,2 @@
-# Calculator
+# clock
 A simple calculator application.
